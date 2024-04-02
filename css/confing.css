@@ -1,0 +1,16 @@
+*{
+}
+
+html {
+    padding: 0;
+    margin: 0;
+    font-family: monospace;
+}
+
+.general {
+    width: 375px;
+    height: 830px;
+    margin: auto;
+    padding: 0px 20px;
+    border: 2px solid black;
+}
